@@ -1,0 +1,1 @@
+import{_ as n,K as s,B as o,z as t}from"./index-DJ0sbGkO.js";const r={},c={class:"home"};function a(l,e){return t(),s("div",c,e[0]||(e[0]=[o("h1",null,"这是收藏文件内容",-1),o("p",null,"Home page content goes here",-1)]))}const d=n(r,[["render",a]]);export{d as default};
